@@ -6,6 +6,6 @@ target 'UpcomingMovies' do
   use_frameworks!
 
   # Pods for UpcomingMovies
-  pod 'Alamofire'
+  pod 'Kingfisher'
 
 end
